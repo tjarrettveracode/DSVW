@@ -28,6 +28,8 @@ Requirements
 
 Python (**3.x**) is required for running this program. Items *XML External Entity (local)*, *XML External Entity (remote)* and *Blind XPath Injection (boolean)* require installation of `python-lxml` (e.g. `apt-get install python-lxml`). Otherwise, those will be disabled.
 
+Don't deploy this  in a public environment unless you want to be hacked.
+
 To install lxml via pip, run the following command:
 
 ```
