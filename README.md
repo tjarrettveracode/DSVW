@@ -30,6 +30,8 @@ Python (**3.x**) is required for running this program. Items *XML External Entit
 
 To install lxml via pip, run the following command:
 
+SAMPLE
+
 ```
 pip install -r requirements.txt
 ```
